@@ -1,0 +1,2 @@
+- name: "Installing ngixn"
+  yum: pkg=nginx state=installed
